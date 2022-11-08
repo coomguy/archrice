@@ -1,4 +1,4 @@
-# The Archrice (my adjusted dotfiles. original credit to https://lukesmith.xyz for the original repos [voidrice] and [LARBS])
+# The Archrice (my adjusted dotfiles. credit to https://lukesmith.xyz for the original repos [voidrice] and [LARBS])
 
 These are the dotfiles deployed by [CARBS]
 
